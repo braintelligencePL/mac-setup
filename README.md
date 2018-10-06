@@ -8,7 +8,7 @@ For backend and frontend developers. For Java, Kotlin, Scala, JVM guys. For Reac
 ### 🎲 Few applications for productivity and convenience
 - Anki - [`https://apps.ankiweb.net/`](https://apps.ankiweb.net/) - flashcards, so you remember everything!
 - Evernote - [`https://evernote.com/download`](https://evernote.com/download) - for notes.
-- Spotify - [`https://www.spotify.com/pl/download/mac/`](https://www.spotify.com/pl/download/mac/) - convinient store for my playlists.
+- Spotify - [`https://www.spotify.com/pl/download/mac/`](https://www.spotify.com/pl/download/mac/) - convinient store for playlists.
 - Google Drive - [`https://www.google.com/drive/download/`](https://www.google.com/drive/download/) - drive for books, pdf, photos... etc.
 - Docker - [`https://www.docker.com/get-started`](https://www.docker.com/get-started) 
 - IntelliJ IDEA - [`https://www.jetbrains.com/idea/download`](https://www.jetbrains.com/idea/download)
