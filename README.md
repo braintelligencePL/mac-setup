@@ -3,8 +3,22 @@
 <BR>
 
 ### 🤔 Who this setup is for? 
-For backend and frontend developers. For Java, Kotlin, Scala, JVM guys. For ReactJS, VueJS, Angular. For data-science guys that do tricks with Python and for anyone who is trying some Machine Learning and Deep Learning stuff. Simply setup that I use and like.
+For backend and frontend developers. For Java, Kotlin, Scala, JVM guys. For ReactJS, VueJS, Angular. For data-science guys that do tricks with Python and for anyone who is trying some Machine Learning and Deep Learning stuff. Meaning for everyone! Simply and convinient setup that I use.
 
 ### 🎲 Few applications for productivity and convenience
-- Google Drive - `https://www.google.com/drive/download/`
-- Docker - `https://www.docker.com/get-started`
+- Anki - `https://apps.ankiweb.net/` - flashcards, so you remember everything!
+- Evernote - `https://evernote.com/download` - for notes.
+- Spotify - `https://www.spotify.com/pl/download/mac/` - convinient store for my playlists.
+- Google Drive - `https://www.google.com/drive/download/` - drive for books, pdf, photos... etc.
+- Docker - `https://www.docker.com/get-started` 
+- IntelliJ IDEA - `https://www.jetbrains.com/idea/download`
+- WebStorm `https://www.jetbrains.com/webstorm/download`
+- Sublime - `https://www.sublimetext.com/3`
+- Postman - `https://www.getpostman.com/apps`
+
+<BR>
+
+### Chrome Plugins
+- Google Translate
+- <hide> Ad-Block </hide>
+- Stylus - to change CSS style of any website that you want.
