@@ -7,18 +7,24 @@ For backend and frontend developers. For Java, Kotlin, Scala, JVM guys. For Reac
 
 ### 🎲 Few applications for productivity and convenience
 - Anki - [`https://apps.ankiweb.net/`](https://apps.ankiweb.net/) - flashcards, so you remember everything!
-- Evernote - `https://evernote.com/download` - for notes.
-- Spotify - `https://www.spotify.com/pl/download/mac/` - convinient store for my playlists.
-- Google Drive - `https://www.google.com/drive/download/` - drive for books, pdf, photos... etc.
-- Docker - `https://www.docker.com/get-started` 
-- IntelliJ IDEA - `https://www.jetbrains.com/idea/download`
-- WebStorm `https://www.jetbrains.com/webstorm/download`
-- Sublime - `https://www.sublimetext.com/3`
-- Postman - `https://www.getpostman.com/apps`
+- Evernote - [`https://evernote.com/download`](https://evernote.com/download) - for notes.
+- Spotify - [`https://www.spotify.com/pl/download/mac/`](https://www.spotify.com/pl/download/mac/) - convinient store for my playlists.
+- Google Drive - [`https://www.google.com/drive/download/`](https://www.google.com/drive/download/) - drive for books, pdf, photos... etc.
+- Docker - [`https://www.docker.com/get-started`](https://www.docker.com/get-started) 
+- IntelliJ IDEA - [`https://www.jetbrains.com/idea/download`](https://www.jetbrains.com/idea/download)
+- WebStorm [`https://www.jetbrains.com/webstorm/download`](https://www.jetbrains.com/webstorm/download)
+- Sublime - [`https://www.sublimetext.com/3`](https://www.sublimetext.com/3)
+- Postman - [`https://www.getpostman.com/apps`](https://www.getpostman.com/apps)
 
 <BR>
 
 ### Chrome Plugins
-- Google Translate
-- <hide> Ad-Block </hide>
+- <hide> ad-block </hide>
 - Stylus - to change CSS style of any website that you want.
+- Google Translate
+- Postman Interceptor
+- OneTab 
+- WhatFont
+- VueJs
+- Emoji
+
