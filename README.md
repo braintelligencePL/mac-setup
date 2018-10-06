@@ -6,7 +6,7 @@
 For backend and frontend developers. For Java, Kotlin, Scala, JVM guys. For ReactJS, VueJS, Angular. For data-science guys that do tricks with Python and for anyone who is trying some Machine Learning and Deep Learning stuff. Meaning for everyone! Simply and convinient setup that I use.
 
 ### 🎲 Few applications for productivity and convenience
-- Anki - `https://apps.ankiweb.net/` - flashcards, so you remember everything!
+- Anki - [`https://apps.ankiweb.net/`](https://apps.ankiweb.net/) - flashcards, so you remember everything!
 - Evernote - `https://evernote.com/download` - for notes.
 - Spotify - `https://www.spotify.com/pl/download/mac/` - convinient store for my playlists.
 - Google Drive - `https://www.google.com/drive/download/` - drive for books, pdf, photos... etc.
