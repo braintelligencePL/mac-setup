@@ -19,7 +19,7 @@ For backend and frontend developers. For Java, Kotlin, Scala, JVM guys. For Reac
 <BR>
 
 ### Chrome Plugins
-- <hide> ad-block </hide>
+- `<hide>` ad-block `</hide>`
 - Stylus - to change CSS style of any website that you want.
 - Google Translate
 - Postman Interceptor
