@@ -30,11 +30,11 @@ For backend and frontend developers. For Java, Kotlin, Scala, JVM guys. For Reac
 
 ### 🛠 Macbook Setup
 
-1. Brew (package manager) - [`https://brew.sh/`](https://brew.sh/)
+#### Brew (package manager) - [`https://brew.sh/`](https://brew.sh/)
 
-2. Terminal - [`https://iterm2.com/`](https://iterm2.com/)
+#### Terminal - [`https://iterm2.com/`](https://iterm2.com/)
 
-3. Shells:
+#### Shells:
 
 I use Fish and ZSH interchangeably. I have sentiment for Fish, because it was first thing that I used.
 If you're new to this better choice is ZSH, probably.
