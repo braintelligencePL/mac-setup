@@ -19,14 +19,14 @@ For backend and frontend developers. For Java, Kotlin, Scala, JVM guys. For Reac
 <BR>
 
 ### 🚛 Chrome Plugins
-- ad-block
+- ad-block - well... you know.
 - Stylus - to change CSS style of any website that you want.
-- Google Translate
-- Postman Interceptor
-- OneTab 
-- WhatFont
-- VueJs
-- Emoji
+- Google Translate - if you're not English speaker (very helpfull)
+- Postman Interceptor - proxy to capture HTTP or HTTPS requests.
+- OneTab - convert with one-click all of your tabs into a list.
+- WhatFont - fast way of knowing what font are you looking at.
+- VueJs - for VueJS developers.
+- Emoji - 🧐🤓😎
 
 ### 🛠 Macbook Setup
 
