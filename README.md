@@ -30,9 +30,12 @@ For backend and frontend developers. For Java, Kotlin, Scala, JVM guys. For Reac
 
 ### 🛠 Macbook Setup
 
-#### Brew (package manager) - [`https://brew.sh/`](https://brew.sh/)
+#### Brew (package manager) 
 
-#### Terminal - [`https://iterm2.com/`](https://iterm2.com/)
+- [`https://brew.sh/`](https://brew.sh/)
+
+#### Terminal 
+- [`https://iterm2.com/`](https://iterm2.com/)
 
 #### Shells:
 
