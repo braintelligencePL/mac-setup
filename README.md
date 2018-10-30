@@ -18,7 +18,7 @@ For backend and frontend developers. For Java, Kotlin, Scala, JVM guys. For Reac
 
 <BR>
 
-### Chrome Plugins
+### 🚛 Chrome Plugins
 - ad-block
 - Stylus - to change CSS style of any website that you want.
 - Google Translate
@@ -27,4 +27,18 @@ For backend and frontend developers. For Java, Kotlin, Scala, JVM guys. For Reac
 - WhatFont
 - VueJs
 - Emoji
+
+## 🛠 Actual Setup
+
+1. Brew (package manager) - [`https://brew.sh/`](https://brew.sh/)
+
+2. Terminal - [`https://iterm2.com/`](https://iterm2.com/)
+
+2.1. Shell
+
+
+
+
+
+
 
