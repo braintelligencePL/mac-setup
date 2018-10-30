@@ -34,7 +34,10 @@ For backend and frontend developers. For Java, Kotlin, Scala, JVM guys. For Reac
 
 2. Terminal - [`https://iterm2.com/`](https://iterm2.com/)
 
-2.1. Shell
+3. Shells:
+I use Fish and ZSH interchangeably. I have sentiment for Fish, because it was first thing that I used.
+* `brew install zsh` 
+* `brew install fish` 
 
 
 
