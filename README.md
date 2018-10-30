@@ -34,10 +34,10 @@ For backend and frontend developers. For Java, Kotlin, Scala, JVM guys. For Reac
 
 - [`https://brew.sh/`](https://brew.sh/)
 
-#### Better Terminal
+#### Better Terminal (must have)
 - [`https://iterm2.com/`](https://iterm2.com/)
 
-#### Shells for terminal
+#### Shells for terminal (good to have)
 
 I use Fish interchangeably with ZSH. I have sentiment for Fish, because it was first thing that I used.
 If you're new to this better choice is ZSH, probably.
