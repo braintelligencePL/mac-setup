@@ -30,24 +30,20 @@ For backend and frontend developers. For Java, Kotlin, Scala, JVM guys. For Reac
 
 ### 🛠 Macbook Setup
 
-#### Brew (package manager) 
+#### Package Manager - Brew (must have)
 
 - [`https://brew.sh/`](https://brew.sh/)
 
-#### Terminal 
+#### Better Terminal
 - [`https://iterm2.com/`](https://iterm2.com/)
 
-#### Shells:
+#### Shells for terminal
 
-I use Fish and ZSH interchangeably. I have sentiment for Fish, because it was first thing that I used.
+I use Fish interchangeably with ZSH. I have sentiment for Fish, because it was first thing that I used.
 If you're new to this better choice is ZSH, probably.
 
-* `brew install zsh` 
-* `brew install fish` 
-
-Accessing shell is very simply.
- 
-Run: `zsh` or `fish` and voilà.
+* `brew install zsh`
+* `brew install fish`
 
 
 
