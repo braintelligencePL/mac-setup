@@ -37,7 +37,7 @@ For backend and frontend developers. For Java, Kotlin, Scala, JVM guys. For Reac
 3. Shells:
 
 I use Fish and ZSH interchangeably. I have sentiment for Fish, because it was first thing that I used.
-If you never is either of them use ZSH. Probably better choice.
+If you're new to this better choice is ZSH, probably.
 
 * `brew install zsh` 
 * `brew install fish` 
