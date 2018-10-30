@@ -28,7 +28,7 @@ For backend and frontend developers. For Java, Kotlin, Scala, JVM guys. For Reac
 - VueJs
 - Emoji
 
-## 🛠 Actual Setup
+### 🛠 Macbook Setup
 
 1. Brew (package manager) - [`https://brew.sh/`](https://brew.sh/)
 
