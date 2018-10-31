@@ -35,8 +35,8 @@ For backend and frontend developers. For Java, Kotlin, Scala, JVM guys. For Reac
 ## 🛠 Macbook Setup
 
 ### ⚙ Package Manager - Brew
-Brew: [`https://brew.sh/`](https://brew.sh/)
-Install (copy paste into terminal): `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+Brew: [`https://brew.sh/`](https://brew.sh/) <br>
+Install : `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` <br>
 
 ### ⚙ Iterm 2 - much better terminal
 Download: [`https://iterm2.com/`](https://iterm2.com/)
@@ -47,10 +47,10 @@ I use Fish interchangeably with ZSH. I have sentiment for Fish, because it was f
 If you're new to this better choice is ZSH, probably.
 
 ZSH: [`https://ohmyz.sh/`](https://ohmyz.sh/) <br>
-Install (copy paste into terminal): `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"` <br>
+Install : `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"` <br>
 
 FISH: [`https://fishshell.com/`](https://fishshell.com/) <br>
-Install (copy paste into terminal): `brew install fish` <br>
+Install : `brew install fish` <br>
 <br>
 
 ### ⚙ JDK <br>
