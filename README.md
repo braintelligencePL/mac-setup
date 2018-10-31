@@ -33,14 +33,14 @@ For backend and frontend developers. For Java, Kotlin, Scala, JVM guys. For Reac
 <BR>
 
 ### 🛠 Macbook Setup
-
+<br>
 #### Package Manager - Brew (must have)
 
 - [`https://brew.sh/`](https://brew.sh/)
-
+<br>
 #### Better Terminal (must have)
 - [`https://iterm2.com/`](https://iterm2.com/)
-
+<br>
 #### Shells for terminal (good to have)
 
 I use Fish interchangeably with ZSH. I have sentiment for Fish, because it was first thing that I used.
@@ -51,7 +51,9 @@ Install: `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/mast
 
 FISH: [`https://fishshell.com/`](https://fishshell.com/) <br>
 Install: `brew install fish` <br>
+<br>
 
+#### Another....
 
 
 
