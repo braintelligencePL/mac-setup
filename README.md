@@ -57,7 +57,9 @@ Install : `brew install fish` <br>
 1. `brew update`
 2. `brew tap caskroom/versions`
 3. `brew cask install java`
-4. ```export JAVA_HOME="`/usr/libexec/java_home -v 1.8`"```
+4. `java -version` - to see what version of JDK you installed.
+5. ```export JAVA_HOME="`/usr/libexec/java_home -v 1.8`"``` or `-v 11` depends on version you installed or use.
+
 
 ### ⚙ IntelliJ Idea - Setup 
 1. [x] Enable Annotation Processing
