@@ -53,7 +53,12 @@ FISH: [`https://fishshell.com/`](https://fishshell.com/) <br>
 Install (copy paste into terminal): `brew install fish` <br>
 <br>
 
-#### Another....
+#### JDK <br>
+1. `brew update`
+2. `brew tap caskroom/versions`
+3. `brew cask install java`
+4. ```export JAVA_HOME="`/usr/libexec/java_home -v 1.8`"```
+
 
 
 
