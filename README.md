@@ -41,7 +41,7 @@ Install : `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Home
 ### ⚙ Iterm 2 - much better terminal
 Download: [`https://iterm2.com/`](https://iterm2.com/)
 
-### ⚙ Shells for terminal
+### ⚙ Shell for terminal
 
 I use Fish interchangeably with ZSH. I have sentiment for Fish, because it was first thing that I used.
 If you're new to this better choice is ZSH, probably. Fish has more features from default.
