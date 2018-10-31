@@ -28,7 +28,7 @@ For backend and frontend developers. For Java, Kotlin, Scala, JVM guys. For Reac
 - `OneTab` - convert with one-click all of your tabs into a list.
 - `WhatFont` - fast way of knowing what font are you looking at.
 - `VueJs` - for VueJS developers.
-- `EmojiOne` - 🧐🤓😎
+- `EmojiOne` - 🤓😎🧐
 
 <BR>
 
