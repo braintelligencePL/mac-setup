@@ -44,7 +44,7 @@ Download: [`https://iterm2.com/`](https://iterm2.com/)
 ### ⚙ Shells for terminal
 
 I use Fish interchangeably with ZSH. I have sentiment for Fish, because it was first thing that I used.
-If you're new to this better choice is ZSH, probably.
+If you're new to this better choice is ZSH, probably. Fish has more features from default.
 
 ZSH: [`https://ohmyz.sh/`](https://ohmyz.sh/) <br>
 Install : `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"` <br>
