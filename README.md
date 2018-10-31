@@ -46,12 +46,10 @@ For backend and frontend developers. For Java, Kotlin, Scala, JVM guys. For Reac
 I use Fish interchangeably with ZSH. I have sentiment for Fish, because it was first thing that I used.
 If you're new to this better choice is ZSH, probably.
 
-ZSH: <br>
-[`https://ohmyz.sh/`](https://ohmyz.sh/) <br>
+ZSH: [`https://ohmyz.sh/`](https://ohmyz.sh/) <br><br>
 Install: `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"` <br>
 
-FISH: <br>
-[`https://fishshell.com/`](https://fishshell.com/) <br>
+FISH: [`https://fishshell.com/`](https://fishshell.com/) <br><br>
 Install: `brew install fish` <br>
 
 
