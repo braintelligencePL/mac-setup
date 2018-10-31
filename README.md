@@ -22,7 +22,7 @@ For backend and frontend developers. For Java, Kotlin, Scala, JVM guys. For Reac
 
 ### 🚛 Chrome Plugins
 - `Ad-Block` - well... you know.
-- `Stylus` - to change CSS style of any website that you want.
+- `Stylus` - to change CSS style of any website that you want. (I don't even remember how white-github looks like)
 - `Google Translate` - if you're not English speaker (very helpfull)
 - `Postman Interceptor` - proxy to capture HTTP or HTTPS requests.
 - `OneTab` - convert with one-click all of your tabs into a list.
