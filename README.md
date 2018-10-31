@@ -34,18 +34,12 @@ For backend and frontend developers. For Java, Kotlin, Scala, JVM guys. For Reac
 
 ### 🛠 Macbook Setup
 
-<br>
-
 #### Package Manager - Brew (must have)
-
-- [`https://brew.sh/`](https://brew.sh/)
-
-<br>
+Brew: [`https://brew.sh/`](https://brew.sh/)
+Install: `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
 #### Better Terminal (must have)
-- [`https://iterm2.com/`](https://iterm2.com/)
-
-<br>
+Download: [`https://iterm2.com/`](https://iterm2.com/)
 
 #### Shells for terminal (good to have)
 
