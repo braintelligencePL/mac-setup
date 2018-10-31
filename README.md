@@ -3,7 +3,7 @@
 <BR>
 
 ### 🤔 Who this setup is for? 
-For backend and frontend developers. For Java, Kotlin, Scala, JVM guys. For ReactJS, VueJS, Angular. For data-science guys that do tricks with Python and for anyone who is trying some Machine Learning and Deep Learning stuff. Meaning for everyone! Simply and convinient setup that I use.
+For backend and frontend developers. For Java, Kotlin, Scala, JVM guys. For ReactJS, VueJS, Angular. For data-science guys that do tricks with Python and for anyone who is trying some Machine Learning and Deep Learning stuff. Meaning for everyone! Simply and convinient setup that I use for everyday development and life.
 
 <BR>
 
