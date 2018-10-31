@@ -59,6 +59,11 @@ Install (copy paste into terminal): `brew install fish` <br>
 3. `brew cask install java`
 4. ```export JAVA_HOME="`/usr/libexec/java_home -v 1.8`"```
 
+### ⚙ IntelliJ Idea - Setup 
+1. [x] Enable Annotation Processing
+2. Install `Lombok` plugin (even if you not use it. You'll eventually encounter project where it is used)
+
+
 
 
 
