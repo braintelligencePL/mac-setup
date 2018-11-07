@@ -41,10 +41,12 @@ Install : `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Home
 ### ⚙ Iterm 2 - much better terminal
 Download: [`https://iterm2.com/`](https://iterm2.com/)
 
-### ⚙ Shell for terminal
+### ⚙ Shell for terminal 
 
-I use Fish interchangeably with ZSH. I have sentiment for Fish, because it was first thing that I used.
-If you're new to this better choice is ZSH, probably. Fish has more features from default.
+
+Fish has more out-of-box, but ZSH is a bit better, more things can be customized. 
+I have sentiment for Fish because it was first thing that I used.
+FOR YOU BETTER CHOICE IS ZSH (probably).
 
 ZSH: [`https://ohmyz.sh/`](https://ohmyz.sh/) <br>
 Install : `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"` <br>
@@ -52,6 +54,22 @@ Install : `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/mas
 FISH: [`https://fishshell.com/`](https://fishshell.com/) <br>
 Install : `brew install fish` <br>
 <br>
+
+### Configuration of ZSH
+In home catalog `cd ~` you should have `.zshrc` file open that and read it.
+
+Basically you need few things and everything is in that file.
+Feel free to copy/paste below content. Those are just default settings.
+```
+export PATH=$HOME/bin:/usr/local/bin:$PATH`
+export ZSH="/Users/$USERNAME/.oh-my-zsh"`
+ZSH_THEME="tjkirch"
+todo()
+```
+
+
+
+### Configuration of ZSH
 
 ### ⚙ JDK <br>
 1. `brew update`
@@ -65,8 +83,10 @@ Install : `brew install fish` <br>
 1. [x] Enable Annotation Processing
 2. Install `Lombok` plugin (even if you not use it. You'll eventually encounter project where it is used)
 
-
-
+### Git
+1. ` brew install git`
+2. `git config --global user.name "your_name"`
+3. `git config --global user.email "your_email@youremail.com"`
 
 
 
