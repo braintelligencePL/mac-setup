@@ -58,6 +58,11 @@ Install : `brew install fish` <br>
 [`https://github.com/bhilburn/powerlevel9k`](https://github.com/bhilburn/powerlevel9k) <br>
 * Install: `git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k` <br>
 * Install & Set: [`nerd-fonts/hack/regular/complete`](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Hack/Regular/complete/Hack%20Regular%20Nerd%20Font%20Complete.ttf)
+* Install those
+```bash
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
+```
 
 Put configuration in`.zshrc` file.
 ```bash
@@ -73,6 +78,12 @@ POWERLEVEL9K_MULTILINE_LAST_PROMPT_PREFIX="🎲  "
 POWERLEVEL9K_MULTILINE_FIRST_PROMPT_PREFIX=""
 
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(user dir vcs)
+
+plugins=(
+  git
+  zsh-syntax-highlighting
+  zsh-autosuggestions
+)
 ```
 #### 💎 Best looking terminal 💎
 or just good enough I don't like to spend time searching for themes, colors...
