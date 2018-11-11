@@ -62,7 +62,6 @@ Install : `brew install fish` <br>
 Put configuration in`.zshrc` file.
 ```bash
 export PATH=$HOME/bin:/usr/local/bin:$PATH
-
 export ZSH="/Users/$USERNAME/.oh-my-zsh"
 
 ZSH_THEME="powerlevel9k/powerlevel9k"
@@ -70,8 +69,9 @@ ZSH_THEME="powerlevel9k/powerlevel9k"
 POWERLEVEL9K_MODE="nerdfont-complete"
 POWERLEVEL9K_DISABLE_RPROMPT=true
 POWERLEVEL9K_PROMPT_ON_NEWLINE=true
-POWERLEVEL9K_MULTILINE_LAST_PROMPT_PREFIX="🔍 "
+POWERLEVEL9K_MULTILINE_LAST_PROMPT_PREFIX="🎲  "
 POWERLEVEL9K_MULTILINE_FIRST_PROMPT_PREFIX=""
+
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(user dir vcs)
 ```
 #### 💎 Best looking terminal 💎
