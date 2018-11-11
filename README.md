@@ -32,7 +32,7 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 
 <BR>
 
-## 🛠 Macbook Setup
+## 🛠 Macbook Setup - Terminal
 
 ### ⚙ Package Manager - Brew
 Brew: [`https://brew.sh/`](https://brew.sh/) <br>
@@ -65,7 +65,7 @@ Install : `brew install fish` <br>
 
 
 
-## Few things that we need for work
+## 🛠 Macbook Setup - most needed tools
 
 ### ⚙ JDK <br>
 1. `brew update`
@@ -78,7 +78,7 @@ Install : `brew install fish` <br>
 1. [x] Enable Annotation Processing
 2. Install `Lombok` plugin (even if you not use it. You'll eventually encounter project where it is used)
 
-### Git
+### ⚙ Git
 1. ` brew install git`
 2. `git config --global user.name "your_name"`
 3. `git config --global user.email "your_email@youremail.com"`
