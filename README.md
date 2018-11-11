@@ -3,7 +3,7 @@
 <BR>
 
 ### 🤔 Who this setup is for? 
-For anyone who uses terminal. Meaning for everyone!
+For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Scala). Does some Machine Learning/Deep Learning stuff. Occasionally some frontend.
 
 <BR>
 
@@ -55,7 +55,7 @@ FISH: [`https://fishshell.com/`](https://fishshell.com/) <br>
 Install : `brew install fish` <br>
 <br>
 
-### Even cooler ZSH Shell!
+#### ⚡ Even cooler ZSH Shell!
 1. In home catalog `cd ~` you should have `.zshrc` file. Open that `nano ~/.zshrc` and read it.
 
 2. Get powerlevel9k and set it inside of `nano ~/.zshrc` file. <br>
