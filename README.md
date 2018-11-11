@@ -56,13 +56,11 @@ Install : `brew install fish` <br>
 <br>
 
 ### ⚡ Make ZSH shell even cooler!
-1. In home catalog `cd ~` you should have `.zshrc` file. Open that `nano ~/.zshrc` and read it.
-
-2. Get powerlevel9k and set it inside of `nano ~/.zshrc` file. <br>
+1. In home catalog `cd ~` you should have `.zshrc` file. Open that `nano ~/.zshrc` and read it. Next install powerlevel9k.
 [`https://github.com/bhilburn/powerlevel9k`](https://github.com/bhilburn/powerlevel9k) <br>
 * Install: `git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k` <br>
 * Install & Set: [`nerd-fonts/hack/regular/complete`](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Hack/Regular/complete/Hack%20Regular%20Nerd%20Font%20Complete.ttf)
-* Set: `ZSH_THEME="powerlevel9k/powerlevel9k"` <br>
+* Set `ZSH_THEME="powerlevel9k/powerlevel9k"` in file `nano .zshrc` <br>
 
 
 
