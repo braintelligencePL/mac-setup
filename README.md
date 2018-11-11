@@ -33,6 +33,7 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 <BR>
 
 ## 🛠 Macbook Setup - Terminal
+![](./images/terminal_1.png)
 
 ### ⚙ Package Manager - Brew
 Brew: [`https://brew.sh/`](https://brew.sh/) <br>
@@ -85,8 +86,8 @@ plugins=(
   zsh-autosuggestions
 )
 ```
-#### 💎 Best looking terminal 💎
-or just good enough I don't like to spend time searching for themes, colors...
+#### 💎 Best looking terminal
+##### or just good enough I don't like to spend time searching for themes, colors...
 ![](./images/terminal_1.png)
 
 <br>
