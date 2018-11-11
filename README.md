@@ -56,7 +56,7 @@ Install : `brew install fish` <br>
 <br>
 
 ### Even cooler ZSH Shell!
-1. In home catalog `cd ~` you should have `.zshrc` file open that `nano ~/.zshrc` and read it.
+1. In home catalog `cd ~` you should have `.zshrc` file. Open that `nano ~/.zshrc` and read it.
 
 2. Get powerlevel9k and set it inside of `nano ~/.zshrc` file. <br>
 [`https://github.com/bhilburn/powerlevel9k`](https://github.com/bhilburn/powerlevel9k) <br>
