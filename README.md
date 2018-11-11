@@ -52,7 +52,6 @@ Install : `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/mas
 
 FISH: [`https://fishshell.com/`](https://fishshell.com/) <br>
 Install : `brew install fish` <br>
-<br>
 
 ### ⚡ Make ZSH shell even cooler!
 1. In home catalog `cd ~` you should have `.zshrc` file. Open that `nano ~/.zshrc` and read it. Next install powerlevel9k.
@@ -75,7 +74,8 @@ POWERLEVEL9K_MULTILINE_LAST_PROMPT_PREFIX="🔍 "
 POWERLEVEL9K_MULTILINE_FIRST_PROMPT_PREFIX=""
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(user dir vcs)
 ```
-#### 💎 My favourite look for the terminal 💎
+#### 💎 Best looking terminal 💎
+or just good enough I don't like to spend time searching for themes, colors...
 ![](./images/terminal_1.png)
 
 <br>
