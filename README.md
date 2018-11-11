@@ -39,11 +39,10 @@ Brew: [`https://brew.sh/`](https://brew.sh/) <br>
 Install : `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` <br>
 
 ### ⚙ Iterm 2 - much better terminal
-Download: [`https://iterm2.com/`](https://iterm2.com/)
+Download and Install: [`https://iterm2.com/`](https://iterm2.com/)
+Install Dracula Theme: [`https://draculatheme.com/iterm/`](https://draculatheme.com/iterm/)
 
 ### ⚙ Shell for terminal 
-
-
 Fish has more out-of-box, but ZSH is a bit better, more things can be customized. 
 I have sentiment for Fish because it was first thing that I used. 
 Either way we gonna use ZSH.
