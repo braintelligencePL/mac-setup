@@ -55,7 +55,7 @@ FISH: [`https://fishshell.com/`](https://fishshell.com/) <br>
 Install : `brew install fish` <br>
 <br>
 
-#### ⚡ Even cooler ZSH Shell!
+### ⚡ Make ZSH shell even cooler!
 1. In home catalog `cd ~` you should have `.zshrc` file. Open that `nano ~/.zshrc` and read it.
 
 2. Get powerlevel9k and set it inside of `nano ~/.zshrc` file. <br>
@@ -65,7 +65,7 @@ Install : `brew install fish` <br>
 
 
 
-### Configuration of ZSH
+## Few things that we need for work
 
 ### ⚙ JDK <br>
 1. `brew update`
