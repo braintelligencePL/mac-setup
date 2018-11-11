@@ -76,7 +76,8 @@ POWERLEVEL9K_MULTILINE_FIRST_PROMPT_PREFIX=""
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(user dir vcs)
 ```
 #### That's my favourite look of the terminal
-[](./images/terminal_1.png)
+![](./images/terminal_1.png)
+
 
 
 
