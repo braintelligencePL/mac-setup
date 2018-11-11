@@ -60,12 +60,10 @@ In home catalog `cd ~` you should have `.zshrc` file open that and read it.
 
 Basically you need few things and everything is in that file.
 Feel free to copy/paste below content. Those are just default settings.
-```
-export PATH=$HOME/bin:/usr/local/bin:$PATH`
-export ZSH="/Users/$USERNAME/.oh-my-zsh"`
-ZSH_THEME="tjkirch"
-todo()
-```
+
+Get powerlevel9k and set it inside of `.zshrc` file. <br>
+[`https://github.com/bhilburn/powerlevel9k`](https://github.com/bhilburn/powerlevel9k) <br>
+`ZSH_THEME="powerlevel9k/powerlevel9k"` <br>
 
 
 
@@ -77,7 +75,6 @@ todo()
 3. `brew cask install java`
 4. `java -version` - to see what version of JDK you installed.
 5. ```export JAVA_HOME="`/usr/libexec/java_home -v 1.8`"``` or `-v 11` depends on version you installed or use.
-
 
 ### ⚙ IntelliJ Idea - Setup 
 1. [x] Enable Annotation Processing
