@@ -55,13 +55,10 @@ FISH: [`https://fishshell.com/`](https://fishshell.com/) <br>
 Install : `brew install fish` <br>
 <br>
 
-### Configuration of ZSH
-In home catalog `cd ~` you should have `.zshrc` file open that and read it.
+### Even cooler ZSH Shell!
+1. In home catalog `cd ~` you should have `.zshrc` file open that `nano ~/.zshrc` and read it.
 
-Basically you need few things and everything is in that file.
-Feel free to copy/paste below content. Those are just default settings.
-
-Get powerlevel9k and set it inside of `.zshrc` file. <br>
+2. Get powerlevel9k and set it inside of `.zshrc` file. <br>
 [`https://github.com/bhilburn/powerlevel9k`](https://github.com/bhilburn/powerlevel9k) <br>
 `ZSH_THEME="powerlevel9k/powerlevel9k"` <br>
 
