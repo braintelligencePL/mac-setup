@@ -59,8 +59,9 @@ Install : `brew install fish` <br>
 1. In home catalog `cd ~` you should have `.zshrc` file open that `nano ~/.zshrc` and read it.
 
 2. Get powerlevel9k and set it inside of `.zshrc` file. <br>
-[`https://github.com/bhilburn/powerlevel9k`](https://github.com/bhilburn/powerlevel9k) <br>
-`ZSH_THEME="powerlevel9k/powerlevel9k"` <br>
+* [`https://github.com/bhilburn/powerlevel9k`](https://github.com/bhilburn/powerlevel9k) <br>
+* Install: `git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k` <br>
+* Set: `ZSH_THEME="powerlevel9k/powerlevel9k"` <br>
 
 
 
