@@ -60,7 +60,7 @@ Install : `brew install fish` <br>
 * Install: `git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k` <br>
 * Install & Set: [`nerd-fonts/hack/regular/complete`](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Hack/Regular/complete/Hack%20Regular%20Nerd%20Font%20Complete.ttf)
 
-Put configuration for`.zshrc` file. That's my favourite.
+Put configuration in`.zshrc` file. That's my favourite.
 ```bash
 export PATH=$HOME/bin:/usr/local/bin:$PATH
 
