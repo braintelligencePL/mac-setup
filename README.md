@@ -45,8 +45,8 @@ Download: [`https://iterm2.com/`](https://iterm2.com/)
 
 
 Fish has more out-of-box, but ZSH is a bit better, more things can be customized. 
-I have sentiment for Fish because it was first thing that I used.
-FOR YOU BETTER CHOICE IS ZSH (probably).
+I have sentiment for Fish because it was first thing that I used. 
+Either way we gonna use ZSH.
 
 ZSH: [`https://ohmyz.sh/`](https://ohmyz.sh/) <br>
 Install : `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"` <br>
