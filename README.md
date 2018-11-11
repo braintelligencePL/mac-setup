@@ -61,7 +61,7 @@ Install : `brew install fish` <br>
 2. Get powerlevel9k and set it inside of `nano ~/.zshrc` file. <br>
 [`https://github.com/bhilburn/powerlevel9k`](https://github.com/bhilburn/powerlevel9k) <br>
 * Install: `git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k` <br>
-* Install & Set: [`nerd-fonts/hack/regular`](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Hack/Regular/complete/Hack%20Regular%20Nerd%20Font%20Complete.ttf)
+* Install & Set: [`nerd-fonts/hack/regular/complete`](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Hack/Regular/complete/Hack%20Regular%20Nerd%20Font%20Complete.ttf)
 * Set: `ZSH_THEME="powerlevel9k/powerlevel9k"` <br>
 
 
