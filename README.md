@@ -92,7 +92,7 @@ alias setJdk11='export JAVA_HOME=$(/usr/libexec/java_home -v 11)'
 source $ZSH/oh-my-zsh.sh
 ```
 ## Cool features included:
-- Switching easily between Java JDKs just write `setJdk8` to set your Java version.
+- Switching easily between Java JDKs just write `setJdk8, setJdk11` to set your Java version.
 
 <br>
 <br>
