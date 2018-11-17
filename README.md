@@ -85,10 +85,14 @@ plugins=(
   zsh-syntax-highlighting
   zsh-autosuggestions
 )
+
+alias setJdk8='export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)'
+alias setJdk11='export JAVA_HOME=$(/usr/libexec/java_home -v 11)'
+
+source $ZSH/oh-my-zsh.sh
 ```
-#### 💎 Best looking terminal
-##### or just good enough I don't like to spend time searching for themes, colors...
-![](./images/terminal_1.png)
+## Cool features included:
+- Switching easily between Java JDKs just write `setJdk8` to set your Java version.
 
 <br>
 <br>
@@ -101,6 +105,9 @@ plugins=(
 3. `brew cask install java`
 4. `java -version` - to see what version of JDK you installed.
 5. ```export JAVA_HOME="`/usr/libexec/java_home -v 1.8`"``` or `-v 11` depends on version you installed or use.
+6. If you need install Java8 `brew tap caskroom/versions` and `brew cask install java8`
+7. In `.zshrc` file you have aliases to switch between versions easily (just write setJdk8 in terminal).
+(TIP re-load zsh typing `zsh` in your terminal or `source $ZSH/oh-my-zsh.sh`)
 
 ### ⚙ IntelliJ Idea - Setup 
 1. [x] Enable Annotation Processing
