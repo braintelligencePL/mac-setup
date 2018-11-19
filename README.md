@@ -54,7 +54,7 @@ Install : `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/mas
 FISH: [`https://fishshell.com/`](https://fishshell.com/) <br>
 Install : `brew install fish` <br>
 
-### ⚡ Make ZSH shell even cooler!
+### ⚙ Make ZSH shell even cooler! ⚡⚡
 1. In home catalog `cd ~` you should have `.zshrc` file. Open that `nano ~/.zshrc` and read it. Next install powerlevel9k.
 [`https://github.com/bhilburn/powerlevel9k`](https://github.com/bhilburn/powerlevel9k) <br>
 * Install: `git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k` <br>
