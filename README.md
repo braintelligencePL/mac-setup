@@ -1,5 +1,7 @@
 # 💻 Mac -> Macbook -> Mackintosh -> { setup }
 
+(Most configurations works also with Linux e.g. Ubuntu)
+
 <BR>
 
 ### 🤔 Who this setup is for? 
