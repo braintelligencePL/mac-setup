@@ -1,6 +1,6 @@
 # 💻 Mac -> Macbook -> Mackintosh -> { setup }
 
-(I use that configuration on Ubuntu so most of that works also with Linux)
+(I used that configuration also on Ubuntu at work, so most important things work with Linux)
 
 <BR>
 
@@ -120,6 +120,8 @@ source $ZSH/oh-my-zsh.sh
 2. `git config --global user.name "your_name"`
 3. `git config --global user.email "your_email@youremail.com"`
 
-
+### Frontend (Angular, Node)
+1. `brew install node`
+2. `brew install angular-cli` 
 
 
