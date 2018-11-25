@@ -122,6 +122,7 @@ source $ZSH/oh-my-zsh.sh
 
 ### Frontend (Angular, Node)
 1. `brew install node`
-2. `brew install angular-cli` 
+2. `npm update`
+3. `brew install angular-cli` 
 
 
