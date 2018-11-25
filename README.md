@@ -126,4 +126,4 @@ source $ZSH/oh-my-zsh.sh
 3. `brew install angular-cli`
 4. `npm install -g node-gyp`
 
-
+TIP 1: Problems with project that you want to run? Try: `ng update --all` inside of the project.
