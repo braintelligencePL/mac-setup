@@ -1,6 +1,6 @@
 # 💻 Mac -> Macbook -> Mackintosh -> { setup }
 
-(I used that configuration also on Ubuntu at work, so most important things work with Linux)
+(I used that configuration also on Ubuntu, so most important things work with Linux too)
 
 <BR>
 
