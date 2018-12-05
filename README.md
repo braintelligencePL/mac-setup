@@ -42,13 +42,13 @@ Brew: [`https://brew.sh/`](https://brew.sh/) <br>
 Install : `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` <br>
 
 ### ⚙ Iterm 2 - much better terminal
-Download and Install: [`https://iterm2.com/`](https://iterm2.com/)
-Install Dracula Theme: [`https://draculatheme.com/iterm/`](https://draculatheme.com/iterm/)
+Download and Install: [`https://iterm2.com/`](https://iterm2.com/) <br>
+Install Theme (Dracula) : [`https://draculatheme.com/iterm/`](https://draculatheme.com/iterm/)
 
 ### ⚙ Shell for terminal 
-Fish has more out-of-box, but ZSH is a bit better, more things can be customized. 
-I have sentiment for Fish because it was first thing that I used. 
-Either way we gonna use ZSH.
+Fish has more out-of-box, but ZSH is a bit better, more things can be customized. <br>
+I have sentiment for Fish because it was first thing that I used. <br>
+Either way we gonna use ZSH. <br>
 
 ZSH: [`https://ohmyz.sh/`](https://ohmyz.sh/) <br>
 Install : `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"` <br>
