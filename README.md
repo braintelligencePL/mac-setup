@@ -125,16 +125,17 @@ source $ZSH/oh-my-zsh.sh
 3. `git config --global user.email "your_email@youremail.com"`
 
 ### Frontend (Angular, Node)
-0. Update npm: 
+#### Update npm: 
 * `npm install -g npm`
-1. Update AngularCLI: 
-* 
+#### Update AngularCLI: 
+* `npm uninstall -g angular-cli @angular/cli`
+* `npm cache clean`
+* `npm install -g @angular/cli`
+#### Install Node: 
+* `brew install node`
+* `npm update`
+* `npm install -g node-gyp`
 
 
-1. `brew install node`
-2. `npm update`
-3. `brew install angular-cli`
-4. `npm install -g node-gyp`
-
-TIP 1: Can't build/run the project? <br>
-Try: `ng update --all` inside of the project. <br>
+#### Can't build or run the project? Try these: 
+* tip1: `ng update --all` - but be careful with that (good for new projects) 
