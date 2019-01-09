@@ -125,6 +125,12 @@ source $ZSH/oh-my-zsh.sh
 3. `git config --global user.email "your_email@youremail.com"`
 
 ### Frontend (Angular, Node)
+0. Update npm: 
+* `npm install -g npm`
+1. Update AngularCLI: 
+* 
+
+
 1. `brew install node`
 2. `npm update`
 3. `brew install angular-cli`
