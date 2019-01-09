@@ -4,7 +4,7 @@
 
 <BR>
 
-### 🤔 Who this setup is for? 
+### 🤔 Who's this setup is for? 
 For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Scala). Does some Machine Learning/Deep Learning stuff. Occasionally some frontend with Angular, ReacJS... or backend with NodeJS.
 
 <BR>
