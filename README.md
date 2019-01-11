@@ -140,7 +140,7 @@ source $ZSH/oh-my-zsh.sh
 * `npm install -g npm`
 #### Update AngularCLI: 
 * `npm uninstall -g angular-cli @angular/cli`
-* `npm cache clean`
+* <del>`npm cache clean`</del> `npm cache verify`
 * `npm install -g @angular/cli`
 #### Sample Angular project: 
 * `ng new first-frontend-app` - create project
