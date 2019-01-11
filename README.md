@@ -132,6 +132,9 @@ source $ZSH/oh-my-zsh.sh
 * `npm uninstall -g angular-cli @angular/cli`
 * `npm cache clean`
 * `npm install -g @angular/cli`
+#### Sample Angular project: 
+* `ng new first-frontend-app` - create project
+* `yarn start` - start project
 #### Install Node: 
 * `brew install node`
 * `npm update`
