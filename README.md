@@ -139,4 +139,4 @@ source $ZSH/oh-my-zsh.sh
 
 
 #### Can't build or run the project? Try these: 
-* tip1: `ng update --all` - but be careful with that (good for new projects) 
+* TIP-1: `ng update --all` - but be careful with that (good for new projects) 
