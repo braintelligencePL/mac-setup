@@ -126,6 +126,16 @@ source $ZSH/oh-my-zsh.sh
 3. `git config --global user.email "your_email@youremail.com"`
 
 ### Frontend (Angular, Node)
+#### Visual Studio Code - plugins to install
+* Save Typing
+* IDE JetBrains Keymap
+* Atom One Dark
+* Auto Rename Tag
+* Auto Close Tag
+* Paste and indent
+* Bracket Pair Colorizer
+* Trailing spaces
+
 #### Update npm: 
 * `npm install -g npm`
 #### Update AngularCLI: 
