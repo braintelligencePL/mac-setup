@@ -129,6 +129,10 @@ source $ZSH/oh-my-zsh.sh
 ### ⚙ Better curl (httpie)
 * `brew install httpie`
 
+### ⚙ Better cat😾 (bat🦇)
+* `brew install bat`
+
+
 ### Frontend (Angular, Node)
 #### Visual Studio Code - plugins to install
 * Save Typing
