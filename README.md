@@ -32,6 +32,7 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 - `Toby` - best tab manager that I used. Searching through the stuff is very powerful and convinient. 
 - `WhatFont` - fast way of knowing what font are you looking at.
 - `VueJs` - for VueJS developers.
+- `Augury` - for Angular developers
 - `EmojiOne` - 🤓😎🤣
 
 <BR>
