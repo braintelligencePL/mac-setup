@@ -126,6 +126,9 @@ source $ZSH/oh-my-zsh.sh
 2. `git config --global user.name "your_name"`
 3. `git config --global user.email "your_email@youremail.com"`
 
+### ⚙ Better curl (httpie)
+* `brew install httpie`
+
 ### Frontend (Angular, Node)
 #### Visual Studio Code - plugins to install
 * Save Typing
