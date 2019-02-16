@@ -70,9 +70,16 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
 ```
 
-### ⚙ Few upgrades to commands:
-* `brew install exa` - better ls 
-* `brew install bat` - better cat 
+### ⚙ Few upgrades to common commands:
+
+#### ⚙ Better curl (httpie)
+* `brew install httpie`
+
+### ⚙ Better cat😾 (bat🦇)
+* `brew install bat`
+
+### ⚙ Better ls (exa)
+* `brew install exa`
 
 Put configuration in`.zshrc` file.
 ```bash
@@ -135,13 +142,6 @@ source $ZSH/oh-my-zsh.sh
 1. ` brew install git`
 2. `git config --global user.name "your_name"`
 3. `git config --global user.email "your_email@youremail.com"`
-
-### ⚙ Better curl (httpie)
-* `brew install httpie`
-
-### ⚙ Better cat😾 (bat🦇)
-* `brew install bat`
-
 
 ### Frontend (Angular, Node)
 #### Visual Studio Code - plugins to install
