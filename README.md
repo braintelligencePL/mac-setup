@@ -70,6 +70,10 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
 ```
 
+### ⚙ Few upgrades to commands:
+* `brew install exa` - better ls 
+* `brew install bat` - better cat 
+
 Put configuration in`.zshrc` file.
 ```bash
 export PATH=$HOME/bin:/usr/local/bin:$PATH
@@ -95,8 +99,13 @@ plugins=(
   zsh-autosuggestions
 )
 
+# JDK
 alias setJdk8='export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)'
 alias setJdk11='export JAVA_HOME=$(/usr/libexec/java_home -v 11)'
+
+# exa (better ls)
+alias e='exa -all'
+alias ee='exa --long --header'
 
 source $ZSH/oh-my-zsh.sh
 ```
