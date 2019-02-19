@@ -76,6 +76,8 @@ git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/z
 #### ⚙ Better curl (httpie)
 * `brew install httpie`
 
+![](./images/httpie.png)
+
 ### ⚙ Better `bat` 🦇 than `cat` 😾
 * `brew install bat`
 
@@ -83,6 +85,8 @@ git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/z
 
 ### ⚙ Better ls (exa)
 * `brew install exa`
+
+![](./images/exa.png)
 
 Put configuration in`.zshrc` file.
 ```bash
