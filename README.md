@@ -76,7 +76,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/z
 #### ⚙ Better curl (httpie)
 * `brew install httpie`
 
-### ⚙ Better cat😾 (bat🦇)
+### ⚙ Better `bat` 🦇 than `cat` 😾
 * `brew install bat`
 
 ### ⚙ Better ls (exa)
