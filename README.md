@@ -18,6 +18,7 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 - Docker - [`https://www.docker.com/get-started`](https://www.docker.com/get-started) 
 - IntelliJ IDEA - [`https://www.jetbrains.com/idea/download`](https://www.jetbrains.com/idea/download)
 - WebStorm [`https://www.jetbrains.com/webstorm/download`](https://www.jetbrains.com/webstorm/download)
+- Visual Studio Code [`https://code.visualstudio.com/download`](https://code.visualstudio.com/download)
 - Sublime - [`https://www.sublimetext.com/3`](https://www.sublimetext.com/3)
 - Postman - [`https://www.getpostman.com/apps`](https://www.getpostman.com/apps)
 
