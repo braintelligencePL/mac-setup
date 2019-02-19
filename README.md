@@ -88,8 +88,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/z
 
 ![](./images/exa.png)
 
-Put configuration in `~/.zshrc`  file. 
-`nano ~/.zshrc` | `vim ~/.zshrc`
+Put configuration in `~/.zshrc`  file. Open with `nano ~/.zshrc` or `vim ~/.zshrc`.
 ```bash
 export PATH=$HOME/bin:/usr/local/bin:$PATH
 export ZSH="/Users/$USERNAME/.oh-my-zsh"
