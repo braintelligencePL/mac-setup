@@ -120,6 +120,7 @@ source $ZSH/oh-my-zsh.sh
 ## Cool features included:
 - Switching easily between Java JDKs just write `setJdk8, setJdk11` to set your Java version.
 
+
 <br>
 <br>
 
@@ -138,6 +139,11 @@ source $ZSH/oh-my-zsh.sh
 ### ⚙ IntelliJ Idea - Setup 
 1. [x] Enable Annotation Processing
 2. Install `Lombok` plugin (even if you not use it. You'll eventually encounter project where it is used)
+3. Create launcher script to open IDE from terminal.
+Goto: `/tools/createCommandLineLauncher`
+* `idea folder/example` - open example project 
+* `idea .` - open here `./`
+
 
 ### ⚙ Git
 1. ` brew install git`
