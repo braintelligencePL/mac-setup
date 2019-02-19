@@ -79,6 +79,8 @@ git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/z
 ### ⚙ Better `bat` 🦇 than `cat` 😾
 * `brew install bat`
 
+![](./images/bat.png)
+
 ### ⚙ Better ls (exa)
 * `brew install exa`
 
