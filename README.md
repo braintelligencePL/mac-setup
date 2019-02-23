@@ -143,12 +143,13 @@ source $ZSH/oh-my-zsh.sh
 (TIP re-load zsh typing `zsh` in your terminal or `source $ZSH/oh-my-zsh.sh`)
 
 ### ⚙ IntelliJ Idea - Setup 
-1. [x] Enable Annotation Processing
-2. Install `Lombok` plugin (even if you not use it. You'll eventually encounter project where it is used)
-3. Create launcher script to open IDE from terminal.
-Goto: `/tools/createCommandLineLauncher`
-* `idea folder/example` - open example project 
-* `idea .` - open here `./`
+1. [x] `Enable Annotation Processing`
+2. [x] `Create directories for empty content roots automatically` - depends if you want that to be automatic
+3. Install `Lombok` plugin. Install `Kotlin` plugin.
+4. Create launcher script to open IDE from terminal.
+Menu: `Tools -> CreateCommandLineLauncher` <br> 
+From terminal: `idea .` inside of project. `idea /project` or just choose project to open.
+
 
 
 ### ⚙ Git
