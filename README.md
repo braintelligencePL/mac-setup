@@ -146,7 +146,7 @@ source $ZSH/oh-my-zsh.sh
 1. [x] `Enable Annotation Processing`
 2. [x] `Create directories for empty content roots automatically` - depends if you want this to be automatic.
 3. Install `Lombok` and `Kotlin` plugin.
-4. Install `Spock Framework Enchancements` - for spock live templates. 
+4. Install `Spock Framework Enchancements` - Spock live-templates. e.g. most useful one: spgwt
 5. Create launcher script to open IDE from terminal.
 Menu: `Tools -> CreateCommandLineLauncher` <br> 
 From terminal: `idea .` inside of project. `idea /project` or just choose project to open.
