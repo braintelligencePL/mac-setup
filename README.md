@@ -143,7 +143,7 @@ source $ZSH/oh-my-zsh.sh
 (TIP re-load zsh typing `zsh` in your terminal or `source $ZSH/oh-my-zsh.sh`)
 
 ### ⚙ IntelliJ Idea - Setup 
-[x] `Enable Annotation Processing`
+[x] `Enable Annotation Processing` - set it as default (not only for specific project).
 [x] `Create directories for empty content roots automatically` - depends if you want this to be automatic.
 1. Install `Lombok` and `Kotlin` plugin.
 2. Install `Spock Framework Enchancements` - Spock live-templates. e.g. most useful one: spgwt
