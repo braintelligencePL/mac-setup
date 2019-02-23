@@ -143,8 +143,8 @@ source $ZSH/oh-my-zsh.sh
 (TIP re-load zsh typing `zsh` in your terminal or `source $ZSH/oh-my-zsh.sh`)
 
 ### ⚙ IntelliJ Idea - Setup 
-1. [x] `Enable Annotation Processing`
-2. [x] `Create directories for empty content roots automatically` - depends if you want this to be automatic.
+* [x] `Enable Annotation Processing`
+* [x] `Create directories for empty content roots automatically` - depends if you want this to be automatic.
 3. Install `Lombok` and `Kotlin` plugin.
 4. Install `Spock Framework Enchancements` - Spock live-templates. e.g. most useful one: spgwt
 5. Create launcher script to open IDE from terminal.
