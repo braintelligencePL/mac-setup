@@ -150,8 +150,6 @@ source $ZSH/oh-my-zsh.sh
 Menu: `Tools -> CreateCommandLineLauncher` <br> 
 From terminal: `idea .` inside of project. `idea /project` or just choose project to open.
 
-
-
 ### ⚙ Git
 1. ` brew install git`
 2. `git config --global user.name "your_name"`
