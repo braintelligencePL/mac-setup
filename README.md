@@ -36,6 +36,11 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 - `Augury` - for Angular developers
 - `EmojiOne` - 🤓😎🤣
 
+### IntelliJ IDEA - plugins
+- `Rainbow Brackets`
+- `Lombok`
+- `Extra Icons`
+
 <BR>
 
 ## 🛠 Macbook Setup - Terminal
