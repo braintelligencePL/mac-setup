@@ -40,6 +40,8 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 - `Rainbow Brackets`
 - `Lombok`
 - `Extra Icons`
+- `SonarLint`
+- `Material UI`
 
 <BR>
 
