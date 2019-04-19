@@ -82,6 +82,9 @@ git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/z
 
 ### ⚙ Few upgrades to common commands:
 
+### Better docker
+[https://github.com/moncho/dry](https://github.com/moncho/dry) and [tutorial about that](https://hackernoon.com/docker-cli-alternative-dry-5e0b0839b3b8)
+
 #### ⚙ Better curl (httpie)
 * `brew install httpie`
 
@@ -96,9 +99,6 @@ git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/z
 * `brew install exa`
 
 ![](./images/exa.png)
-
-### Better docker
-[https://github.com/moncho/dry](https://github.com/moncho/dry) and [tutorial about that](https://hackernoon.com/docker-cli-alternative-dry-5e0b0839b3b8)
 
 Put configuration in `~/.zshrc`  file. Open with `nano ~/.zshrc` or `vim ~/.zshrc`.
 ```bash
