@@ -36,6 +36,8 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 - `Augury` - for Angular developers
 - `EmojiOne` - 🤓😎🤣
 
+<BR>
+
 ### IntelliJ IDEA - plugins
 - `Rainbow Brackets`
 - `Lombok`
