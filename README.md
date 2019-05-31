@@ -36,6 +36,9 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 - `Augury` - for Angular developers
 - `EmojiOne` - 🤓😎🤣
 
+### 🛠 Terminal tools
+- `npm install --global fkill-cli` - kill processes with `fkill :8080`
+
 <BR>
 
 ### IntelliJ IDEA - plugins
