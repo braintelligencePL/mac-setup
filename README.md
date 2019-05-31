@@ -37,7 +37,7 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 - `EmojiOne` - 🤓😎🤣
 
 ### 🛠 Terminal tools
-- `npm install --global fkill-cli` - kill processes with `fkill :8080`
+- `npm install --global fkill-cli` - kill processes with `fkill :8080` or launch the interactive UI `fkill`.
 - `brew install tree` - linux tree
 - `brew install exa` - modern replacement for ls, tree 
 
