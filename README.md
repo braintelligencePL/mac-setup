@@ -165,6 +165,8 @@ source $ZSH/oh-my-zsh.sh
 ### ⚙ IntelliJ Idea - Setup 
 [x] `Enable Annotation Processing` - set it as default (not only for specific project). <br> 
 [x] `Create directories for empty content roots automatically` - depends if you want this to be automatic. <br>
+[x] `Font to Fira Code, and enabling font ligatures` <br>
+
 1. Install `Lombok` and `Kotlin` plugin.
 2. Install `Spock Framework Enchancements` plugin - Spock live-templates. Example use: `spgwt`
 3. Install [iterm-plugin](https://plugins.jetbrains.com/plugin/10344-iterm-plugin). Opens iterm from project path.
