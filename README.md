@@ -36,6 +36,8 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 - `Augury` - for Angular developers
 - `EmojiOne` - 🤓😎🤣
 
+<BR>
+
 ### 🛠 Terminal tools
 - `npm install --global fkill-cli` - kill processes with `fkill :8080` or launch the interactive UI `fkill`.
 - `npm install --global alfred-fkill` - kill with alfred. 
@@ -47,11 +49,12 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 <BR>
 
 ### IntelliJ IDEA - plugins
-- `Rainbow Brackets`
-- `Lombok`
-- `Extra Icons`
-- `SonarLint`
-- `Material UI`
+- `Rainbow Brackets` - colorful bracets
+- `Gradianto` (Theme: Gradianto Deep Ocean) - much better syntax highlighting.
+- `Material UI` - used for some time, but not anymore. Good for frontend stuff in my opinion. 
+- `Lombok` - for java boilerplate.
+- `Extra Icons` - few more icons.
+- `SonarLint` - static analysis. 
 
 <BR>
 
