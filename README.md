@@ -65,11 +65,12 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 <br>
 
 #### ⚙ brew - package manager 
-Install: `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` <br>
-[`https://brew.sh/`](https://brew.sh/) <br> 
+* Install: `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` <br>
+* [`https://brew.sh/`](https://brew.sh/) <br> 
 
-#### [`https://iterm2.com/`](https://iterm2.com/) - much better terminal
-Install also a theme for terminal (Dracula): [`https://draculatheme.com/iterm/`](https://draculatheme.com/iterm/) <br> 
+#### iterm2 - much better terminal
+* Theme for terminal (Dracula): [`https://draculatheme.com/iterm/`](https://draculatheme.com/iterm/) <br> 
+* [`https://iterm2.com/`](https://iterm2.com/)
 
 #### ZSH shell for terminal
 Install : `brew install zsh` <br> 
