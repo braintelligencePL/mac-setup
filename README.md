@@ -64,7 +64,7 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 
 <br>
 
-### ⚙ [`https://brew.sh/`](https://brew.sh/) - package manager 
+#### ⚙ [`https://brew.sh/`](https://brew.sh/) - package manager 
 Install : `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` <br>
 
 #### ⚙ [`https://iterm2.com/`](https://iterm2.com/) - much better terminal
