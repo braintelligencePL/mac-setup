@@ -71,13 +71,11 @@ Download and Install: [`https://iterm2.com/`](https://iterm2.com/) <br>
 Install Theme (Dracula) : [`https://draculatheme.com/iterm/`](https://draculatheme.com/iterm/)
 
 ### ⚙ Shell for terminal 
-Fish has more out-of-box, but ZSH is a bit better, more things can be customized. <br>
-I have sentiment for Fish because it was first thing that I used. <br>
-Either way we gonna use ZSH. <br>
 
 ZSH: [`https://ohmyz.sh/`](https://ohmyz.sh/) <br>
 Install : `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"` <br>
 
+Less good alternative is Fish. Comes with few more out-of-box things but Zsh has more tools and community.  
 FISH: [`https://fishshell.com/`](https://fishshell.com/) <br>
 Install : `brew install fish` <br>
 
