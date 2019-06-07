@@ -68,15 +68,16 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 * `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` <br>
 * [`https://brew.sh/`](https://brew.sh/) <br> 
 
-#### iterm2 - much better terminal
+#### ⚙ iterm2 - much better terminal
 * Theme for terminal (Dracula): [`https://draculatheme.com/iterm/`](https://draculatheme.com/iterm/) <br> 
 * [`https://iterm2.com/`](https://iterm2.com/)
 
-#### ZSH shell for terminal
+#### ⚙ zsh shell for terminal
 * `brew install zsh` <br> 
 
-#### [`https://ohmyz.sh/`](https://ohmyz.sh/) - for managing zsh
+#### ⚙ oh-my-zsh - for managing zsh
 * `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"` <br>
+* [`https://ohmyz.sh/`](https://ohmyz.sh/)
 
 #### ⚙ PowerLevel9k for terminal customization
 * `git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k` <br>
@@ -85,7 +86,7 @@ Read PowerLevel9k docs: [`https://github.com/bhilburn/powerlevel9k`](https://git
 #### ⚙ Nerd font - my favourite font 
 [`nerd-fonts/hack/regular/complete`](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Hack/Regular/complete/Hack%20Regular%20Nerd%20Font%20Complete.ttf) <BR>
 
-#### Plugins to zsh via ohmyz
+#### ⚙ plugins for zsh: 
 * `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
 * `git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions`
 
