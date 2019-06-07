@@ -138,16 +138,23 @@ alias setJdk8='export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)'
 alias setJdk11='export JAVA_HOME=$(/usr/libexec/java_home -v 11)'
 
 # exa (better ls)
-alias e='exa -all'
-alias ee='exa --long --header'
+alias l='exa -all'
+alias ll='exa --long --header -lgh'
+
+# create cat from bat
+alias cat='bat'
+
+# better ls - exa
+alias l1='exa --tree --level=1'
+alias l2='exa --tree --level=2'
+alias l3='exa --tree --level=3'
+alias l4='exa --tree --level=4'
+alias l5='exa --tree --level=5'
+alias lx='exa -T'
 
 source $ZSH/oh-my-zsh.sh
 ```
-## Cool features included:
-- Switching easily between Java JDKs just write `setJdk8, setJdk11` to set your Java version.
 
-
-<br>
 <br>
 
 ## 🛠 Macbook Setup - most needed tools
