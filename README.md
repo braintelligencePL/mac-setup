@@ -62,6 +62,8 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 ## 🛠 Macbook Setup - Essentials
 ![](./images/terminal_1.png)
 
+<br>
+
 #### ⚙ Brew - package manager 
 Brew: [`https://brew.sh/`](https://brew.sh/) <br>
 Install : `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` <br>
