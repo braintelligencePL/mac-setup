@@ -48,7 +48,7 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 
 <BR>
 
-### IntelliJ IDEA - plugins
+### 🔌 IntelliJ IDEA - plugins
 - `Rainbow Brackets` - colorful bracets
 - `Gradianto` (Theme: Gradianto Deep Ocean) - much better syntax highlighting.
 - `Material UI` - used for some time, but not anymore. Good for frontend stuff in my opinion. 
