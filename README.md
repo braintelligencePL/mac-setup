@@ -44,7 +44,7 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 - `brew install tree` - linux tree
 - `brew install exa` - modern replacement for ls, tree
 - `brew install httpie` - better curl `http POST :8010/products field1=asdf field2=1234`
-
+- `brew tap moncho/dry && brew install dry` - GUI in terminal for managing Docker and Docker Swarm.
 
 <BR>
 
