@@ -64,8 +64,9 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 
 <br>
 
-#### [`https://brew.sh/`](https://brew.sh/) - package manager 
+#### ⚙ brew - package manager 
 Install: `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` <br>
+[`https://brew.sh/`](https://brew.sh/) <br> 
 
 #### [`https://iterm2.com/`](https://iterm2.com/) - much better terminal
 Install also a theme for terminal (Dracula): [`https://draculatheme.com/iterm/`](https://draculatheme.com/iterm/) <br> 
