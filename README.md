@@ -64,16 +64,16 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 
 <br>
 
-#### ⚙ [`https://brew.sh/`](https://brew.sh/) - package manager 
-Install : `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` <br>
+#### [`https://brew.sh/`](https://brew.sh/) - package manager 
+Install: `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` <br>
 
-#### ⚙ [`https://iterm2.com/`](https://iterm2.com/) - much better terminal
-Additionally install theme (Dracula) : [`https://draculatheme.com/iterm/`](https://draculatheme.com/iterm/)
+#### [`https://iterm2.com/`](https://iterm2.com/) - much better terminal
+Install also a theme for terminal (Dracula): [`https://draculatheme.com/iterm/`](https://draculatheme.com/iterm/) <br> 
 
-#### ⚙ ZSH shell for terminal
+#### ZSH shell for terminal
 Install : `brew install zsh` <br> 
 
-#### ⚙ [`https://ohmyz.sh/`](https://ohmyz.sh/) - for managing zsh
+#### [`https://ohmyz.sh/`](https://ohmyz.sh/) - for managing zsh
 Install : `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"` <br>
 
 #### ⚙ PowerLevel9k for terminal customization
@@ -81,10 +81,11 @@ Read PowerLevel9k docs: [`https://github.com/bhilburn/powerlevel9k`](https://git
 Install: `git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k` <br>
 
 #### ⚙ Nerd font - my favourite font 
-Install: [`nerd-fonts/hack/regular/complete`](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Hack/Regular/complete/Hack%20Regular%20Nerd%20Font%20Complete.ttf)
+Install: [`nerd-fonts/hack/regular/complete`](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Hack/Regular/complete/Hack%20Regular%20Nerd%20Font%20Complete.ttf) <BR>
 
 #### Plugins to zsh via ohmyz
 Install: `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
+  
 Install: `git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions`
 
 <BR>
