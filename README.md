@@ -62,19 +62,13 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 ## 🛠 Macbook Setup - Essentials
 ![](./images/terminal_1.png)
 
-<BR>
-
 #### ⚙ Brew - package manager 
 Brew: [`https://brew.sh/`](https://brew.sh/) <br>
 Install : `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` <br>
 
-<BR>
-
 #### ⚙ Iterm 2 - much better terminal
 Download and Install: [`https://iterm2.com/`](https://iterm2.com/) <br>
 Additionally install theme (Dracula) : [`https://draculatheme.com/iterm/`](https://draculatheme.com/iterm/)
-
-<BR>
 
 #### ⚙ Shell for terminal 
 ZSH: [`https://ohmyz.sh/`](https://ohmyz.sh/) <br>
@@ -83,8 +77,6 @@ Install : `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/mas
 FISH: [`https://fishshell.com/`](https://fishshell.com/) <br>
 Install : `brew install fish` <br>
 Less good alternative is Fish. Comes with few more out-of-box things but Zsh has more tools and community.  
-
-<BR>
 
 #### ⚙ Make ZSH shell even cooler! ⚡⚡
 1. In home catalog `cd ~` you should have `.zshrc` file. Open that `nano ~/.zshrc` and read it. Next install powerlevel9k.
