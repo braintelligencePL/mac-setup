@@ -65,7 +65,7 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 <br>
 
 #### ⚙ brew - package manager 
-* Install: `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` <br>
+* `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` <br>
 * [`https://brew.sh/`](https://brew.sh/) <br> 
 
 #### iterm2 - much better terminal
@@ -73,22 +73,21 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 * [`https://iterm2.com/`](https://iterm2.com/)
 
 #### ZSH shell for terminal
-Install : `brew install zsh` <br> 
+* `brew install zsh` <br> 
 
 #### [`https://ohmyz.sh/`](https://ohmyz.sh/) - for managing zsh
-Install : `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"` <br>
+* `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"` <br>
 
 #### ⚙ PowerLevel9k for terminal customization
+* `git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k` <br>
 Read PowerLevel9k docs: [`https://github.com/bhilburn/powerlevel9k`](https://github.com/bhilburn/powerlevel9k) <br>
-Install: `git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k` <br>
 
 #### ⚙ Nerd font - my favourite font 
-Install: [`nerd-fonts/hack/regular/complete`](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Hack/Regular/complete/Hack%20Regular%20Nerd%20Font%20Complete.ttf) <BR>
+[`nerd-fonts/hack/regular/complete`](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Hack/Regular/complete/Hack%20Regular%20Nerd%20Font%20Complete.ttf) <BR>
 
 #### Plugins to zsh via ohmyz
-Install: `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
-  
-Install: `git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions`
+* `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
+* `git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions`
 
 <BR>
 
