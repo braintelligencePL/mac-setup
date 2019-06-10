@@ -51,6 +51,7 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 
 ### 🔌 IntelliJ IDEA - plugins
 - `Markdown`, `Kotlin`, `Scala`, `Docker` - self-explanatory
+- `Maven Helper` - few shortcuts for running maven. Right-click and <b>run maven</b>
 - `Rainbow Brackets` - colorful bracets
 - `Gradianto` (Theme: Gradianto Deep Ocean) - much better syntax highlighting.
 - `Material UI` - used for some time, but not anymore. Good for frontend stuff in my opinion. 
