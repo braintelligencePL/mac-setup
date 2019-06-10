@@ -56,6 +56,7 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 - `Lombok` - for java boilerplate.
 - `Extra Icons` - few more icons.
 - `SonarLint` - static analysis. 
+- `TestMe` - auto generate unit tests in Java, Groovy or Scala. 
 
 <BR>
 
