@@ -159,6 +159,9 @@ alias l4='exa --tree --level=4'
 alias l5='exa --tree --level=5'
 alias lx='exa -T'
 
+# Others
+alias clsdocker='docker stop $(docker ps -a -q) && docker rmi -f $(docker images -a -q) && docker rm -vf $(do>
+
 source $ZSH/oh-my-zsh.sh
 ```
 
