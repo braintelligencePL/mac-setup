@@ -36,6 +36,7 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 - `VueJs` - for VueJS developers.
 - `Augury` - for Angular developers
 - `EmojiOne` - 🤓😎🤣
+- `Bitbucket Server Extension` - adding configured reviewers. 
 
 <BR>
 
