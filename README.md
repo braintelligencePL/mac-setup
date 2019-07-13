@@ -35,8 +35,8 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 - `WhatFont` - fast way of knowing what font are you looking at.
 - `VueJs` - for VueJS developers.
 - `Augury` - for Angular developers
+- `Bitbucket Server Extension` - adder for configured bitbucket reviewers.
 - `EmojiOne` - 🤓😎🤣
-- `Bitbucket Server Extension` - adding configured reviewers. 
 
 <BR>
 
