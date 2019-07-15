@@ -61,6 +61,7 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 - `SonarLint` - static analysis. 
 - `TestMe` - auto generate unit tests in Java, Groovy or Scala. 
 - `Presentation Assistant` - show shortcuts that you invoked.
+- `Grep Console` - Grep, tail, filter, highlight... everything you need for a console.
 <BR>
 
 ## 🛠 Macbook Setup - Essentials
