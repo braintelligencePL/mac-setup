@@ -48,6 +48,7 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 - `brew install httpie` - better curl `http POST :8010/products field1=asdf field2=1234`
 - `brew tap moncho/dry && brew install dry` - Dry is terminal GUI for managing Docker and Docker Swarm.
 - `brew install kotlin` - for kotlinc compiler.
+- `brew tap caskroom/cask` & `brew cask install google-cloud-sdk` - gcloud CLI
 <BR>
 
 ### 🔌 IntelliJ IDEA - plugins
