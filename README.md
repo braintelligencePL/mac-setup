@@ -123,7 +123,8 @@ Put configuration in `~/.zshrc`  file. Open with `nano ~/.zshrc` or `vim ~/.zshr
 export PATH=$HOME/bin:/usr/local/bin:$PATH
 export ZSH="/Users/$USERNAME/.oh-my-zsh"
 
-ZSH_THEME="powerlevel9k/powerlevel9k"
+# ZSH_THEME="powerlevel9k/powerlevel9k"
+ZSH_THEME="powerlevel10k/powerlevel10k"
 
 POWERLEVEL9K_MODE="nerdfont-complete"
 POWERLEVEL9K_DISABLE_RPROMPT=true
