@@ -85,7 +85,7 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 * `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"` <br>
 * [`https://ohmyz.sh/`](https://ohmyz.sh/)
 
-#### ⚙ PowerLevel9k for terminal customization
+#### ⚙ PowerLevel9k for terminal customization (or newer PowerLevel10k)
 * `git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k` <br>
 Read PowerLevel9k docs: [`https://github.com/bhilburn/powerlevel9k`](https://github.com/bhilburn/powerlevel9k) <br>
 * `git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k` <br>
