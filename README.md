@@ -128,28 +128,30 @@ ZSH_THEME="powerlevel9k/powerlevel9k"
 POWERLEVEL9K_MODE="nerdfont-complete"
 POWERLEVEL9K_DISABLE_RPROMPT=true
 POWERLEVEL9K_PROMPT_ON_NEWLINE=true
-POWERLEVEL9K_MULTILINE_LAST_PROMPT_PREFIX="┗━🎲 "
-POWERLEVEL9K_MULTILINE_FIRST_PROMPT_PREFIX="┏━"
+
+POWERLEVEL9K_MULTILINE_LAST_PROMPT_PREFIX="%F{014}\u2570%F{cyan}\uF460%F{073}\uF460%F{109}\uF460%f "
 
 POWERLEVEL9K_SHORTEN_DIR_LENGTH=1
 POWERLEVEL9K_SHORTEN_DELIMITER=""
 POWERLEVEL9K_SHORTEN_STRATEGY="truncate_from_right"
 
-POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(user dir vcs)
+POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(os_icon dir vcs public_ip)
+
 
 plugins=(
   git
   zsh-syntax-highlighting
   zsh-autosuggestions
+  docker
 )
 
-# JDK
+# Jdk 8, 11
 alias setJdk8='export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)'
 alias setJdk11='export JAVA_HOME=$(/usr/libexec/java_home -v 11)'
 
 # exa (better ls)
-alias l='exa -all'
-alias ll='exa --long --header -lgh'
+alias e='exa -all'
+alias ee='exa --long --header -lgh'
 
 # create cat from bat
 alias cat='bat'
@@ -162,10 +164,11 @@ alias l4='exa --tree --level=4'
 alias l5='exa --tree --level=5'
 alias lx='exa -T'
 
-# Others
-alias clsdocker='docker stop $(docker ps -a -q) && docker rmi -f $(docker images -a -q) && docker rm -vf $(do>
+alias clsdocker='docker stop $(docker ps -a -q) && docker rmi -f $(docker images -a -q) && docker rm -vf $(docker ps -a -q)'
+alias w='~/all/repos/'
 
 source $ZSH/oh-my-zsh.sh
+source /etc/zprofile
 ```
 
 <br>
