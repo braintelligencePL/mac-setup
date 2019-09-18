@@ -88,6 +88,9 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 #### ⚙ PowerLevel9k for terminal customization
 * `git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k` <br>
 Read PowerLevel9k docs: [`https://github.com/bhilburn/powerlevel9k`](https://github.com/bhilburn/powerlevel9k) <br>
+* `git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k` <br>
+Newer and faster version, PowerLevel10k: [`https://github.com/romkatv/powerlevel10k`](https://github.com/romkatv/powerlevel10k) <br>
+(tests in progress - so far it works) 
 
 #### ⚙ Nerd font - my favourite font 
 [`nerd-fonts/hack/regular/complete`](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Hack/Regular/complete/Hack%20Regular%20Nerd%20Font%20Complete.ttf) <BR>
