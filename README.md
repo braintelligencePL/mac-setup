@@ -16,6 +16,7 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 - Spotify - [`https://www.spotify.com/pl/download/mac/`](https://www.spotify.com/pl/download/mac/) - convinient store for playlists.
 - Google Drive - [`https://www.google.com/drive/download/`](https://www.google.com/drive/download/) - drive for books, pdf, photos... etc.
 - Docker - [`https://www.docker.com/get-started`](https://www.docker.com/get-started) 
+- Toolbox - JetBrains
 - IntelliJ IDEA - [`https://www.jetbrains.com/idea/download`](https://www.jetbrains.com/idea/download)
 - WebStorm [`https://www.jetbrains.com/webstorm/download`](https://www.jetbrains.com/webstorm/download)
 - Visual Studio Code [`https://code.visualstudio.com/download`](https://code.visualstudio.com/download)
