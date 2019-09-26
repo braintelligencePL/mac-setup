@@ -84,6 +84,9 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 #### ⚙ zsh shell for terminal
 * `brew install zsh` <br> 
 
+Setup: 
+1. [`Natural Text Editing`](https://apple.stackexchange.com/questions/154292/iterm-going-one-word-backwards-and-forwards)
+
 #### ⚙ oh-my-zsh - for managing zsh
 * `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"` <br>
 * [`https://ohmyz.sh/`](https://ohmyz.sh/)
