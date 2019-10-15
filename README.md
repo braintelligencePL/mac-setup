@@ -53,6 +53,7 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 - `brew install fzf` Command-Line Fuzzy Finder - better search CTRL + R with autosugestions and more!
 - `git open .` - to open git repository in a browser. 
 - [`git-friendly`](https://github.com/jamiew/git-friendly) - better git workflow. Just type pull, push, branch...
+- `brew install tldr` - better man. Quick descriptions for popular commands.
 
 <BR>
 
