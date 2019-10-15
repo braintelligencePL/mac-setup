@@ -50,7 +50,7 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 - `brew tap moncho/dry && brew install dry` - Dry is terminal GUI for managing Docker and Docker Swarm.
 - `brew install kotlin` - for kotlinc compiler.
 - `brew tap caskroom/cask` & `brew cask install google-cloud-sdk` - gcloud CLI
-- `brew install fzf` Command-Line Fuzzy Finder - better search CTRL + R with autosugestions.
+- `brew install fzf` Command-Line Fuzzy Finder - better search CTRL + R with autosugestions and more!
 - `git open .` - to open git repository in a browser. 
 - [`git-friendly`](https://github.com/jamiew/git-friendly) - better git workflow. Just type pull, push, branch...
 
