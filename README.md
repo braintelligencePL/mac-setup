@@ -52,6 +52,7 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 - `brew tap caskroom/cask` & `brew cask install google-cloud-sdk` - gcloud CLI
 - `brew install fzf` Command-Line Fuzzy Finder - better search CTRL + R with autosugestions.
 - `git open .` - to open git repository in a browser. 
+- [https://github.com/jamiew/git-friendly](git-friendly) - better git workflow. Just type pull, push, branch...
 <BR>
 
 ### 🔌 IntelliJ IDEA - plugins
