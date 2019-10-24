@@ -54,6 +54,7 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 - `git open .` - to open git repository in a browser. 
 - [`git-friendly`](https://github.com/jamiew/git-friendly) - better git workflow. Just type pull, push, branch...
 - `brew install tldr` - better man. Quick descriptions for popular commands.
+- `brew install lazygit` - yet another tool for managing git.
 
 <BR>
 
