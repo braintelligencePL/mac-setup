@@ -72,9 +72,9 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 <BR>
 
 ## 🛠 Macbook Setup - Essentials
-
-*Current setup for terminal looks like that:* 
-![](./images/terminal_2.png)
+ 
+![123](./images/terminal_2.png)
+*Current setup for terminal looks like that:*
 
 <br>
 
