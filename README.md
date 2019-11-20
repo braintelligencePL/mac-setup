@@ -1,4 +1,4 @@
-# `💻.setup().macOS().ubuntu().build()`
+## `💻.setup().macOS().ubuntu().build()`
 
 That's what I use on daily basis. I used that configuration also on Ubuntu. Enjoy!
 
