@@ -1,4 +1,5 @@
-## `💻.setup().macOS().build()` OR `🖥️.setup().ubuntu().build()` <br>
+## `💻.setup().macOS().build()`<br>
+## `🖥️.setup().ubuntu().build()`
 
 That's what I use on daily basis. I used that configuration also on Ubuntu. Enjoy!
 
