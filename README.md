@@ -5,7 +5,7 @@ That's what I use on daily basis. I used that configuration also on Ubuntu. Enjo
 <BR>
 
 ### 🤔 Who's this setup is for? 
-For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Scala). Does some Machine Learning/Deep Learning stuff. Occasionally some frontend with Angular, ReactJS... or backend with NodeJS.
+For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Scala). Does some Machine Learning/Deep Learning stuff. Occasionally some frontend with Angular, VueJS, ReactJS...
 
 <BR>
 
