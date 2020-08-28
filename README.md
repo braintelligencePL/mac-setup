@@ -70,6 +70,12 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 - `Presentation Assistant` - show shortcuts that you invoked.
 - `Grep Console` - Grep, tail, filter, highlight... everything you need for a console.
 <BR>
+ 
+## 🛠 Macbook Apps 
+- `Magnet` - workspace/window organizer
+- `Dropover` - drag/drop files in finder (shake it!)
+
+
 
 ## 🛠 Macbook Setup - Essentials
  
