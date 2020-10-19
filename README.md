@@ -77,12 +77,13 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 - `CopyClip 2` - clipboard manager 
 - `Intellij Toolbox` - for managing jetbrains IDE
 - `Docker desctop` - docker
-- `f.lux` - for eyes
+- `f.lux` - eyes
 
 
 ## 🛠 Macbook Setup - Essentials
  
 Current setup for terminal looks like that:
+
 ![](./images/terminal_2.png)
 
 <br>
