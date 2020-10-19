@@ -74,7 +74,10 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 ## 🛠 Macbook Apps 
 - `Magnet` - workspace/window organizer
 - `Dropover` - drag/drop files in finder (shake it!)
-
+- `CopyClip 2` - clipboard manager 
+- `Intellij Toolbox` - for managing jetbrains IDE
+- `Docker desctop` - docker
+- `f.lux` - for eyes
 
 
 ## 🛠 Macbook Setup - Essentials
@@ -166,9 +169,10 @@ plugins=(
   docker
 )
 
-# Jdk 8, 11
+# Jdk 8, 11, 14
 alias setJdk8='export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)'
 alias setJdk11='export JAVA_HOME=$(/usr/libexec/java_home -v 11)'
+alias setJdk14='export JAVA_HOME=$(/usr/libexec/java_home -v 14)'
 
 # exa (better ls)
 alias e='exa -all'
@@ -188,7 +192,10 @@ alias lx='exa -T'
 alias clsdocker='docker stop $(docker ps -a -q) && docker rmi -f $(docker images -a -q) && docker rm -vf $(docker ps -a -q)'
 alias w='~/all/repos/'
 
-source $ZSH/oh-my-zsh.sh
+gch() {
+  git checkout $(git branch --all | fzf)
+}
+
 source /etc/zprofile
 ```
 
