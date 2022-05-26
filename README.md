@@ -54,6 +54,7 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 - [`git-friendly`](https://github.com/jamiew/git-friendly) - better git workflow. Just type pull, push, branch...
 - `brew install tldr` - better man. Quick descriptions for popular commands.
 - `brew install lazygit` - yet another tool for managing git.
+- `curl -s "https://get.sdkman.io" | bash` - sdkman CLI tool which helps you easily manage SDK kits.
 
 <BR>
 
