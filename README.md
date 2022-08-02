@@ -41,6 +41,10 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 <BR>
 
 ### 🛠 Terminal tools
+
+#### Before
+`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+
 - `npm install --global fkill-cli` - kill processes with `fkill :8080` or launch the interactive UI `fkill`.
 - `npm install --global alfred-fkill` - kill with alfred. 
 - `brew install tree` - linux tree
