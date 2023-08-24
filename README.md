@@ -82,7 +82,7 @@ For anyone who uses terminal, does backend with JVM languages (Java, Kotlin, Sca
 - `Intellij Toolbox` - for managing jetbrains IDE
 - `Docker desctop` - docker
 - `f.lux` - eyes
-
+- `https://github.com/lensapp/lens` lens kubernetes
 
 ## 🛠 Macbook Setup - Essentials
  
